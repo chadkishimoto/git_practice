@@ -1,6 +1,7 @@
 import numpy as np
 
 def plot_me(x):
-    return 1.00 * x**0
+    return 2.00 * x**2
 
 plot_color = "k"
+
